@@ -1,0 +1,19 @@
+{
+  "name": "skillBuilding",
+  "version": "0.0.0",
+  "description": "Build those skills",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/jabapyth/skillBuilding.git"
+  },
+  "author": "Jared Forsyth <jared@jaredforsyth.com>",
+  "license": "MIT",
+  "readmeFilename": "Readme.md",
+  "dependencies": {
+    "websocket": "~1.0.8"
+  }
+}
