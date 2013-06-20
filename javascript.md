@@ -1,4 +1,3 @@
-
 # Apprentice
 
 ## Suggested Tasks
@@ -24,11 +23,12 @@
   - understanding of closures
   - https://github.com/notablemind/settings/blob/master/index.js
 - [DOM Event handling](https://github.com/notablemind/socketio-monitor/blob/master/index.js#L27)
-<!-- use "target" to add handlers to parent elements -->
 - Exception handling
   - [throw](https://github.com/notablemind/socketio-monitor/blob/master/index.js#L20)/[catch](https://github.com/jabapyth/component-loader/blob/master/index.js#L34)
   - [async pass (err, data)](https://github.com/notablemind/notablemind/blob/master/routes/settings.js#L9)
 - [regex](https://github.com/notablemind/settings/blob/master/index.js#L2)
+
+<!-- use "target" to add handlers to parent elements -->
 
 ## Questions
 
