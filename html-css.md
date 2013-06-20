@@ -1,4 +1,3 @@
-
 # Apprentice
 
 already passed off :) I'll fill in later
@@ -64,10 +63,10 @@ http://net.tutsplus.com/tutorials/html-css-techniques/25-html5-features-tips-and
 ### HTML5
 
 - use semantic HTML tags, such as
-  [<section>](https://github.com/jabapyth/jfcom-hyde/blob/f92b977ada9b06a172b0cfbd79e6bc10e2853ab6/content/index.html#L21),
-  [<article>](https://github.com/jabapyth/jfcom-hyde/blob/f92b977ada9b06a172b0cfbd79e6bc10e2853ab6/layout/macros.j2#L3),
+  [&lt;section>](https://github.com/jabapyth/jfcom-hyde/blob/f92b977ada9b06a172b0cfbd79e6bc10e2853ab6/content/index.html#L21),
+  [&lt;article>](https://github.com/jabapyth/jfcom-hyde/blob/f92b977ada9b06a172b0cfbd79e6bc10e2853ab6/layout/macros.j2#L3),
   and
-  [<nav>](https://github.com/jabapyth/jfcom-hyde/blob/f92b977ada9b06a172b0cfbd79e6bc10e2853ab6/layout/macros.j2#L60)
+  [&lt;nav>](https://github.com/jabapyth/jfcom-hyde/blob/f92b977ada9b06a172b0cfbd79e6bc10e2853ab6/layout/macros.j2#L60)
 - include the HTML5 doctype &#10004;
 - more powerful form input features, for example:
   - [contenteditable](https://github.com/notablemind/note/blob/master/template.jade#L4)
